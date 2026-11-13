@@ -1,0 +1,20 @@
+# 许可（License）
+
+本仓库的文档（`README.md`、`docs/` 下的全部 Markdown 文件）以及 `assets/` 下由作者制作的图片，采用
+**Creative Commons Attribution 4.0 International（CC BY 4.0）** 许可。
+
+你可以自由复制、分发、改编本仓库内容，包括商业用途，但需要：
+
+- **署名**：注明作者（作品集作者）与本仓库来源；
+- **说明修改**：如果做了修改，请注明修改内容；
+- 不得暗示作者为你或你的使用背书。
+
+许可全文：<https://creativecommons.org/licenses/by/4.0/legalcode>
+
+## 例外与第三方内容
+
+- 文中提到的第三方方法与概念（如金字塔原理、TDD、KANO、RICE、E-E-A-T 等）版权归原作者，本仓库只做方法层面的转述与致谢，不包含其原文。
+- `assets/geo-agent-flow.webp` 为作者自有项目的流程图（已脱敏），随本仓库按 CC BY 4.0 提供。
+- 本仓库不包含任何第三方报告、书籍原文、竞品材料或客户数据。
+
+Copyright © 2026 作品集作者
